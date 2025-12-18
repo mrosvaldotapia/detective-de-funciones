@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Detective de Funciones  
 ## Caso 2: El lanzamiento inesperado
 
-**Nivel:** 3° Medio – Matemática  
+**Nivel:** 2° Medio – Matemática  
 **Proyecto:** Detective de Funciones  
 **Tipo de recurso:** Guía de trabajo (aprendizaje basado en casos)
 
