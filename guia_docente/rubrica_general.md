@@ -1,7 +1,7 @@
 # Rúbrica General  
 ## Proyecto: Detective de Funciones
 
-**Nivel:** 3° Medio – Matemática  
+**Nivel:** 2° Medio – Matemática  
 **Tipo de evaluación:** Formativa  
 **Aplicable a:** Todos los casos del proyecto Detective de Funciones
 
