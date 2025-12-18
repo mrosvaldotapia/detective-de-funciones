@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Detective de Funciones  
 ## Caso 3: Dos historias, dos modelos
 
-**Nivel:** 3° Medio – Matemática  
+**Nivel:** 2° Medio – Matemática  
 **Proyecto:** Detective de Funciones  
 **Tipo de recurso:** Guía de trabajo (comparación de modelos)
 
