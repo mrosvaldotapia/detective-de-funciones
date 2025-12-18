@@ -34,4 +34,39 @@ Evaluar el desarrollo de habilidades de interpretación, argumentación y modela
 |-----|-------------|
 | **Logrado** | Utiliza al menos dos representaciones (tabla, gráfico, descripción) de forma coherente. |
 | **En proceso** | Utiliza representaciones, pero con errores o sin establecer relaciones claras. |
-| **Inicial** | Utiliza una sola representación o lo hace de manera
+| **Inicial** | Utiliza una sola representación o lo hace de manera incorrecta. |
+
+---
+
+### 3. Argumentación matemática
+
+| Nivel | Descripción |
+|-----|-------------|
+| **Logrado** | Explica sus decisiones con lenguaje matemático adecuado y coherente. |
+| **En proceso** | Presenta argumentos, pero con imprecisiones o lenguaje poco claro. |
+| **Inicial** | No logra argumentar sus decisiones matemáticamente. |
+
+---
+
+### 4. Interpretación del fenómeno
+
+| Nivel | Descripción |
+|-----|-------------|
+| **Logrado** | Interpreta correctamente el fenómeno en contexto, relacionándolo con el modelo funcional. |
+| **En proceso** | Interpreta el fenómeno de forma parcial o incompleta. |
+| **Inicial** | No logra relacionar el modelo con la situación descrita. |
+
+---
+
+### 5. Participación y reflexión
+
+| Nivel | Descripción |
+|-----|-------------|
+| **Logrado** | Participa activamente y reflexiona sobre el proceso seguido. |
+| **En proceso** | Participa de manera intermitente o con reflexiones superficiales. |
+| **Inicial** | Presenta escasa participación o no reflexiona sobre el proceso. |
+
+---
+
+## Observaciones finales
+Esta rúbrica puede adaptarse según el número de casos trabajados, el tiempo disponible y el enfoque evaluativo del docente.
