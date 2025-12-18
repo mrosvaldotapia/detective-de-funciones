@@ -1,5 +1,5 @@
 # 🕵️‍♀️ Detective de Funciones  
-### Proyecto didáctico para Matemática – 3° Medio
+### Proyecto didáctico para Matemática – 2° Medio
 
 ---
 
@@ -12,7 +12,7 @@ El proyecto promueve el desarrollo del **pensamiento computacional**, la argumen
 
 ## Nivel educativo
 - **Asignatura:** Matemática  
-- **Nivel:** 3° Medio  
+- **Nivel:** 2° Medio  
 - **Eje:** Funciones y modelación  
 
 ---
